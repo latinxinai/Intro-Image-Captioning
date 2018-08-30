@@ -30,7 +30,7 @@ You may find the code walkthrough for this segment [here](https://github.com/lat
 
 ## Intro to NLP
 
-You may find the code walkthrough for this segment [here](https://github.com/latinxinai/nlp-workshop).
+You may find the code walkthrough for this segment [here](https://github.com/latinxinai/Intro-Image-Captioning/blob/master/Intro_to_NLP).
 
 ## Image Captioning 
 
