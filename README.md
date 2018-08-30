@@ -26,7 +26,7 @@ You may find the guided walkthrough of the AWS Deep Learning AMI to follow along
 
 ## Intro to CV in PyTorch
 
-You may find the code walkthrough for this segment [here]().
+You may find the code walkthrough for this segment [here](https://github.com/latinxinai/Intro-Image-Captioning/blob/master/Intro_to_CV_in_Pytorch.ipynb).
 
 ## Intro to NLP
 
