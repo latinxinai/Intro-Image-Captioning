@@ -1,7 +1,15 @@
 # Intro-Image-Captioning
 GBDSC Workshop Intro to AI including AWS, CV, NLP, and Image Captioning
 
+![Header Image](./images/gbdsc.png)
+
 In this four hour workshop, members of the Latinx in AI Coalition will be sharing presentation and labs to introduce audience to introductory to advanced artificial intelligence concepts, theory, and applications. We'll begin with a guided walkthrough of accessing a computing environment utilizing the cloud AWS Deep Learning AMI (Amazon Machine Image). The second section will introduce Pytorch for deep learning and computer vision techniques including CNNs. Third, we'll focus on concepts in natural language processing including intro to linguistics concepts for preprocessing datasets (tokenization, lemmatization etc) with Spacy, embeddings including a few examples of bias, and RNNs with embeddings of the data as an input. Finally, we'll demo an example of image captioning in Pytorch to emphasize the relationship between CV and NLP for advanced AI applications.
+
+**Presenters:**
+Laura Montoya, Founder @ Accel.AI & Co-Chair LXAI
+Yannet Interian, Assistant Professor @ University of San Francisco
+Jorge Penalva, CEO @ Lang.ai
+Victor Ramirez, Associate Director DevOps @ Moody's Analytics
 
 ## Setup
 
@@ -26,9 +34,13 @@ You may find the guided walkthrough of the AWS Deep Learning AMI to follow along
 
 ## Intro to CV in PyTorch
 
+Slides can be found [here](https://github.com/latinxinai/Intro-Image-Captioning/blob/master/pdf/slides/cv.pdf).
+
 You may find the code walkthrough for this segment [here](https://github.com/latinxinai/Intro-Image-Captioning/blob/master/Intro_to_CV_in_Pytorch.ipynb).
 
 ## Intro to NLP
+
+Slides can be found [here](https://github.com/latinxinai/Intro-Image-Captioning/blob/master/pdf/slides/nlp.pdf)
 
 You may find the code walkthrough for this segment [here](https://github.com/latinxinai/Intro-Image-Captioning/blob/master/Intro_to_NLP).
 
